@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import './Admin.css';
 
-const API_URL = 'https://rent-bk-siva.onrender.com'; // Your API URL
+const API_URL = 'https://rentalequip-backend.onrender.com'; // Your API URL
 
 // AddProduct Component
 const AddProduct = ({ onProductAdded }) => {
