@@ -13,7 +13,7 @@ const Login = () => {
   const [resetEmail, setResetEmail] = useState('');
   const [isReset, setIsReset] = useState(false);
 
-  const API_URL = 'https://rent-bk-siva.onrender.com'; // Your API URL
+  const API_URL = 'https://rentalequip-backend.onrender.com'; // Your API URL
   // const API_URL='http://localhost:5000';
 
   const handleLogin = async () => {
