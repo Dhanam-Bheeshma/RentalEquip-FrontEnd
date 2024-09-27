@@ -4,7 +4,7 @@ import Footer from '../../Components/Footer/Footer';
 import Navbar from '../../Components/Navbar/Navbar';
 
 // Base API URL
-const API_URL = 'https://rent-bk-siva.onrender.com';
+const API_URL = 'https://rentalequip-backend.onrender.com';
 
 // Styles
 const styles = {
