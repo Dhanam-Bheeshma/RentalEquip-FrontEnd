@@ -73,3 +73,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 >>>>>>> 92c8c9c2455bb0febc3786215711352860f72695
 "# RentalEquip-Frontend" 
+"# RentalEquip-Frontend" 
+"# RentalEquip-FrontEnd" 
